@@ -1,0 +1,328 @@
+.all_page
+{
+	float:left;
+	width:780px;
+	height:600px;
+	margin-left:256px;
+}
+.Head_er 
+{
+	width:780px;
+	height:100px;
+	background-image: url(C:/Users/Memorais/Desktop/web/lab_2/Head.png);
+}
+.text_head
+{
+	margin-left:310px;
+	font-family: Cantarell, sans-serif;
+	font-style:oblique;
+	color:white;
+    font-size: 18pt;
+	text-shadow: white 1px 1px 2px;
+}
+.next_step 
+{
+	width:780px;
+	height:49px;
+	background-image: url(C:/Users/Memorais/Desktop/web/lab_2/next.png);
+}
+ul
+{
+	float:left;
+	list-style-type:none;
+	text-decoration:none;
+	empty-cells:show;
+	width:30px
+	height:98px;
+	font-family: Caveat, sans-serif;
+	font-style:oblique;
+    font-weight:bold;
+    font-size: 8pt; 
+	margin-left:-40px;
+	margin-top:70px;
+}
+a
+{
+	color:white;
+	border-right:3px ;
+	background-color:black;
+}
+a:hover {background-color:#ff3300;}
+li {display:inline;}
+.text_up
+{
+	margin-left:22px;
+	margin-top:-10px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-weight:bold;
+    font-size: 18pt; 
+}
+.back_font
+{
+	margin-left:32px;
+	margin-top:-65px;
+	width:314px;
+	height:381px;
+	background-image: url(C:/Users/Memorais/Desktop/web/lab_2/Back_Font.png);
+}
+.table_section
+{
+	margin-top:-241px;
+	margin-left:587px;
+	width:182px;
+	height:432px;
+	border: 2px solid steelblue;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-size: 7.65pt; 
+	color:black;
+}
+.in_table_section
+{
+	float:right;
+	margin-top:15px;
+	margin-right:65px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-weight:bold;
+    font-size: 11pt; 
+}
+.sony
+{
+	width:88px;
+	height:18px;
+	padding-left:45px;
+}
+.Siemens
+{
+	width:88px;
+	height:13px;
+	padding-left:45px;
+}
+.Samsung
+{
+	width:88px;
+	height:33px;
+	padding-left:45px;
+}
+.Motorola
+{
+	width:88px;
+	height:28px;
+	padding-left:45px;
+}
+.Philips
+{
+	width:88px;
+	height:28px;
+	padding-left:45px;
+}
+.sony_text
+{
+	padding-left:48px;
+}
+.Siemens_text
+{
+	padding-left:48px;
+}
+.Samsung_text
+{
+	padding-left:48px;
+}
+.Motorola_text
+{
+	padding-left:48px;
+}
+.Philips_text
+{
+	padding-left:48px;
+}
+.basketman
+{
+	float:right;
+	margin-top:-435px;
+	margin-right:200px;
+	width:170px;
+	height:245px;
+}
+.palka
+{
+	margin-left:5px;
+	margin-top:-315px;
+	width:4px;
+	height:203px;
+	background-image: url(C:/Users/Memorais/Desktop/web/lab_2/Palka_sleva.png);
+}
+.table_with_text
+{
+	margin-top:-395px;
+	margin-left:170px;
+	width:408px;
+	height:294px;
+	border-left: 2px solid steelblue;
+	border-bottom: 2px solid steelblue;
+}
+.black_text
+{
+	width:166px;
+	height:13px;
+	background-color:black;
+	text-align: right;
+	font-family:Abel,sans-serif;
+	font-size:7.5pt;
+	color:white;
+	margin-top:-75px;
+}
+.Fans
+{
+	margin-left:30px;
+	margin-top:10px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-weight:bold;
+    font-size: 11pt; 
+}
+.Fans_image
+{
+	margin-top:8px;
+	margin-left:8px;
+	width:157px;
+	height:126px;
+}
+.black_text_end
+{
+	width:584px;
+	height:15px;
+	background-color:black;
+	text-align: center;
+	font-family:Abel,sans-serif;
+	font-size:8pt;
+	color:white;
+	margin-top:10px;
+}
+.designed_lab
+{
+	float:right;
+	margin-right:8px;
+	margin-top:-12px;
+	font-family:Arial  , sans-serif;
+    font-style:normal;
+    font-weight:normal;
+    font-size:10px;
+	color:grey;
+}
+p.some
+{
+	margin-left:10px;
+	width:164px;
+	height:10px;
+	font-family:Abel,sans-serif;
+	font-size:10pt;
+	font-weight:bold;
+}
+p.some_blue
+{
+	font-family:Abel,sans-serif;
+	font-size:7.25pt;
+	color:steelblue;
+}
+.News
+{
+	float:right;
+	margin-top:-405px;
+	margin-right:376px;
+	width:225px;
+	height:220px;
+}
+p.haha
+{
+	height:15px;
+	font-family:Abel,sans-serif;
+	font-size:8.75pt;
+	font-weight:bold;
+	color:steelblue;	
+}
+.more
+{
+	float:right;
+	margin-right:380px;
+	margin-top:-130px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-weight:bold;
+    font-size: 10pt; 
+}
+.table_game
+{
+	margin-left:170px;
+	margin-top:-90px;
+	width:408px;
+	height:90px;
+	border: 1px solid red;
+
+}
+.table_game_2
+{
+	margin-left:170px;
+	margin-top:-85px;
+	width:209px;
+	height:80px;
+	border-right: 1px solid red;
+}
+p.he
+{
+	margin-top:6px;
+	margin-left:255px;
+	font-family:Abel,sans-serif;
+	font-size:8.75pt;
+	font-weight:bold;
+	color:steelblue;
+	color:red;
+}
+p.heh
+{
+	margin-top:-5px;
+	margin-left:220px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+	font-weight:bold;
+    font-size: 7.5pt; 
+}
+p.che
+{
+	margin-top:0px;
+	margin-left:55px;
+	font-family:Abel,sans-serif;
+	font-size:8.75pt;
+	font-weight:bold;
+	color:steelblue;
+	color:red;
+}
+p.cheh
+{
+	margin-top:-5px;
+	margin-left:10px;
+	font-weight:bold;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-size: 7.75pt; 
+}
+.bra
+{
+	margin-top:-5px;
+	margin-left:80px;
+	font-family: Gudea, sans-serif;
+	font-style:normal;
+	color:steelblue;
+    font-size: 7.5pt; 
+}
+
+/**/
